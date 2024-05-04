@@ -1,0 +1,22 @@
+{
+    "name": "tienda-camisetas-backend",
+    "version": "1.0.0",
+    "description": "Back-end for the football jerseys store",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "tienda",
+      "camisetas",
+      "futbol",
+      "backend"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.1.2"
+    }
+  }
+  
